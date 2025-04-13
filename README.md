@@ -142,3 +142,11 @@ jmeter -n -t meu_teste.jmx
    ```
    jmeter -n -t meu_plano.jmx -l resultado.jtl -H my.proxy.server -P 8080
    
+
+<!-- Links utilizados:
+http://www.automationpractice.pl/index.php - Site de compras
+https://jsonplaceholder.typicode.com/guide/ - RESTE
+http://www.dneonline.com/calculator.asmx?op=Add - SOAP
+
+Speed test google:
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect -->
